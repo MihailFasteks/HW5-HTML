@@ -1,0 +1,118 @@
+.header{
+    background-color: blueviolet;
+    height: 180px;
+    margin: 10px;
+}
+.menu{
+background-color: rgb(63, 11, 89);
+height: 100px;
+margin: 10px;
+}
+.aside1{
+    /* position: relative; */
+    height: 150px;
+    width: 300px;
+    background-color: blue;
+
+
+}
+.aside2{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+margin-top: 10px;
+}
+.main{
+    float: left;
+width: 1240px;
+height: 600px;
+    background-color: rgb(23, 147, 133);
+
+}
+.left{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+
+
+}
+.aside3{
+
+float: left;
+    height: 400px;
+    width: 116px;
+    background-color: blue;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+.footer{
+    height: 150px;
+    background-color: brown;
+    margin: 10px;
+    padding: 20px;
+}
+.bigblock{
+    height: 600px;
+}
+ul li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+.block1{
+float: left;
+margin-top: 20px;
+}
+.block2{
+    float: left;
+    margin-left: 600px;
+    margin-top: 20px;
+
+    }
+    .block3 {
+        float: left;
+        margin-left: 400px;
+        margin-top: 40px;
+        width: 64px;
+        height: 64px;
+background: url(img/fb_gray.png);
+        }
+        .block3:hover{
+
+ background: url(img/fb.png);
+
+        }
+        .block4 {
+            float: left;
+            margin-left: 10px;
+            margin-top: 40px;
+            width: 64px;
+            height: 64px;
+    background: url(img/insta_gray.png);
+            }
+            .block4:hover{
+    
+     background: url(img/insta.png);
+    
+            }
+            .block5 {
+                float: left;
+                margin-left: 10px;
+                margin-top: 40px;
+                width: 64px;
+                height: 64px;
+        background: url(img/youtube_gray.png);
+                }
+                .block5:hover{
+        
+         background: url(img/youtube.png);
+        
+                }
